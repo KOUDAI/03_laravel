@@ -8,8 +8,8 @@
   </head>
 
   <body>
-    <h1>{{$greet2}}</h1>
-    <h2>{{$greet}}</h2>
+    <h1>{{ $greet2 }}</h1>
+    <h2>{{ $greet }}</h2>
   </body>
 
   </html>
